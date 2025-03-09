@@ -1,0 +1,7 @@
+Method,Accuracy
+cepstrum,60.0
+mfcc,50.0
+mfcc_energy,50.0
+mfcc_delta,50.0
+mfcc_delta2,50.0
+wav2vec2,30.0
